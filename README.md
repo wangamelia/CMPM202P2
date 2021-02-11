@@ -8,3 +8,5 @@ The original repo's Colab notebook had sliders and dropdown menus to modify thos
 
 How to use:
 Open the notebook in Google Colab and run each cell, starting from the top.
+
+![sample output](GANimages.png)
