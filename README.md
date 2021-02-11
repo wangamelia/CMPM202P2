@@ -1,5 +1,6 @@
 # CMPM202P2
 By Rebecca Lietz, Alison Crosby, Amelia Wang
+
 Based on this repo: https://github.com/pbaylies/stylegan2-ada
 
 We use a pretrained model to generate art from a WikiArt dataset. The above Github repo is the original base for this implementation, we simply created a Google Colab notebook to use the model.
